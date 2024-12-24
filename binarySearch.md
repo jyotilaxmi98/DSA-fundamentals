@@ -1,7 +1,7 @@
 ## Binary Search
 
 - finding position of a target value in a sorted array
-- divided search space into two halves to find middle index
+- divides search space into two halves to find middle index
 
 
 
