@@ -1,6 +1,6 @@
 ## Binary Search
 
-- finding position of a traget value in a sorted array
+- finding position of a target value in a sorted array
 - divided search space into two halves to find middle index
 
 
@@ -11,7 +11,7 @@ Implemented using two ways:
 
 ## Iterative approach
 
-```
+``` C++
 #include<iostream>
 #include<vector>
 
@@ -61,7 +61,7 @@ int main(){
 
 ## Recursive approach 
 
-```
+``` C++
 
 #include<iostream>
 #include<vector>
@@ -110,6 +110,13 @@ int main(){
 }
 
 ```
+
+
+
+
+
+
+
 
 
 
