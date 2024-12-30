@@ -54,7 +54,7 @@ int main()
     return 0;
 }
 ```
-**Output: <br>Array: 10 2 4 8 6 9 <br>
+Output: <br>Array: 10 2 4 8 6 9 <br>
 Priority Queue: 10 9 8 6 4 2 
 
 
