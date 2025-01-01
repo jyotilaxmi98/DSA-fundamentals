@@ -169,7 +169,7 @@ vector<int> findNextGreaterIndexes(vector<int>& arr) {
 ```
 
 Notes:
--- For finding next greater elements (not equal) we use a monotonic non increasing stack (type 4)
+- For finding next greater elements (not equal) we use a monotonic non increasing stack (type 4)
 If the question was to find next greater or equal elements, then we would have used a monotonic strictly decreasing stack (type 3)
 We use the operator < in while loop condition above - this results in a monotonic non increasing stack (type 4). If we use <= operator, then this becomes a monotonic strictly decreasing stack (type 3)
 Time and space complexity - O(n)
