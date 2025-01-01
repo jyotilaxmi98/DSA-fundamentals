@@ -101,6 +101,7 @@ To find these, we build a monotone increasing stack.
 Think of it as an inverse relationship:
 
 "Greater" → Decreasing Stack
+<br>
 "Smaller" → Increasing Stack
 
 # Next Greater
