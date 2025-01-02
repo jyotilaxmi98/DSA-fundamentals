@@ -25,8 +25,7 @@ Graph can be represented in two ways-
   - Adjacency matrix: 
     - Represented using v*v matrix,where v=no. of vertices.
   Range of vertices = 0 - (v-1)
-  Example: If v=4,then range(numbering) = 0 -(4-1) = 0-3
-<br>
+  Example: If v=4,then range(numbering) = 0 -(4-1) = 0-3.
   Therefore,vertices are = 0,1,2,3
     - When we represent undirected graph in the form of adjacency matirx,the matrix becomes symmetric in nature.
     - 2D array where matrix[i][j] represents edge between vertices i and j.
